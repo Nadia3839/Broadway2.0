@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+h1 {font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  }
+div {
+background-image: url(/Users/ouzoubair/Desktop/Projects/Broadway2.0/resources/images/the-flatiron-building.png)
+}
+
+ul {
+  font-size: 18px;
+  color: white;
+  line-height: 30px;
+  list-style: none;
+}
