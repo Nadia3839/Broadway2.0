@@ -3,11 +3,11 @@ body {
   font-family: helvetica;
 }
 h1 {font-size: 70px;
-  font-weight: bold;
   color: white;
   text-align: center;
   }
-div {
+.head,
+h3 {
 background-image: url(/Users/ouzoubair/Desktop/Projects/Broadway2.0/resources/images/the-flatiron-building.png)
 }
 
@@ -16,4 +16,38 @@ ul {
   color: white;
   line-height: 30px;
   list-style: none;
+}
+
+h2,
+h3,
+h4 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 28px;
+  color: white;
+}
+
+h4 {
+  font-size: 23px;
+}
+
+p.text {
+  font-size: 14px;
+}
+
+.footer {
+  font-size: 11px;
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+.btn-nav {
+  font-size: 14px;
 }
